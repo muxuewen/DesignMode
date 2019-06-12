@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// ¼òµ¥¹¤³§Ä£Ê½
+// æ¥å£ç±»
 class vehicle{
 public:
 	virtual void run() = 0;
